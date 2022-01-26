@@ -4,3 +4,6 @@
 
 # Encapsulation
 
+# Inheritance
+
+# Polymorphism
