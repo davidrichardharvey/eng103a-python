@@ -16,3 +16,9 @@ code blocks
 We can also have:
 - Bullet
 - Points!
+
+## Content
+
+1. [Variables](01_Variables)
+2. [Collections](02_Collections)
+3. 

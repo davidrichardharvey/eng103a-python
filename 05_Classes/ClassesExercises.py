@@ -38,7 +38,8 @@ class Number:
             return False
 
 # A2a:
-
+x = Number(10)
+x.
 
 print("\nQ2b\n")
 # Q2b: Now create a list of numbers from list_of_numbers that are divisible
